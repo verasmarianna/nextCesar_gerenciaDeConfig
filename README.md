@@ -1,3 +1,4 @@
-## Bem vindo ao respositório do módulo Gerência de Configuração do curso CESAR NExT 23.1
+# Bem vindo ao respositório do curso CESAR NExT 23.1
+## Módulo Gerência de Configuração 
 
-Aula 01
+### Olá, sou Marianna Veras
