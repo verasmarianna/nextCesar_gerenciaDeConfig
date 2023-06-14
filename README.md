@@ -1,0 +1,1 @@
+# nextCesar_gerenciaDeConfig
